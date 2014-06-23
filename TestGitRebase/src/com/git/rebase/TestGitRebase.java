@@ -6,7 +6,8 @@ public class TestGitRebase {
 		// TODO Auto-generated method stub
 		System.out.println("Ciao");
 		System.out.println("a tutti");
-		System.out.println("Pluto");
+		System.out.println("Pippo e Pluto");
+
 		
 
 	}
